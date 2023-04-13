@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aXFm --group-directories-first
+ls -aXFm -sort -d
