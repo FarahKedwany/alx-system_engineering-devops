@@ -1,2 +1,2 @@
 #!/bin/bash
-if [userID=guillaume] then sudo chown betty hello
+sudo chown -from=guillaume betty hello
